@@ -1,0 +1,9 @@
+# LUNCH COUNTDOWN WEB PAGE
+
+## DESIGNED BY BOLAJI OLUWATOBILOBA
+
+### SOME PICTURES TO EXPECT WHEN YOU OPEN THE SITE
+
+![Desktop view](/Lunch%20countdown%20desktop%20view.png)
+
+#### THANKS
