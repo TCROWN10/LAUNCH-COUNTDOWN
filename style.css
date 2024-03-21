@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(bg-stars.svg);
+    background-image: url(/Images/bg-stars.svg);
     background: hsl(234, 17%, 12%);
 }
 .text-container{
